@@ -4,7 +4,7 @@
 
 **[下载最新 Android APK](https://github.com/junnhwan/wanjune-ledger/releases/latest)** · Android 7.0 及以上 · 无需账号 · 离线记账
 
-最新版本：[1.1.0（10）](https://github.com/junnhwan/wanjune-ledger/releases/tag/v1.1.0-10)。全新安卓界面与暖纸浅色，新增攒钱／收入／花费计划，以及可保存和分享的排版图片。
+[一账 1.1.1（11）](https://github.com/junnhwan/wanjune-ledger/releases/tag/v1.1.1-11) 已发布。手机记账的保存按钮固定在导航或键盘上方，金额聚焦时用底线与光标提示。
 
 ## 主要功能
 
@@ -36,7 +36,7 @@
 
 从上方下载入口选择正式 `.apk`，按 Android 系统提示安装。已安装用户也可在设置中检查更新、下载并交给系统安装。
 
-可使用[加速下载 1.1.0 APK](https://gh-proxy.org/https://github.com/junnhwan/wanjune-ledger/releases/download/v1.1.0-10/yizhang-1.1.0-10-release.apk)，也可从上方官方发布页下载。
+可使用[加速下载 1.1.1 APK](https://gh-proxy.org/https://github.com/junnhwan/wanjune-ledger/releases/download/v1.1.1-11/yizhang-1.1.1-11-release.apk)，也可从上方官方发布页下载。
 
 查看任意时间段：进入「统计 → 自定义」，分别选择开始和结束日期，例如 10 月 4 日至 11 月 4 日（包含两端，共 32 天）。汇总、分类、趋势和明细会使用同一范围；月度预算切回「按月」查看。
 
